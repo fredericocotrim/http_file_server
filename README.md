@@ -1,2 +1,2 @@
-# http_file_server
+# HTTP File Server
 HTTP File Server with Node.js and Express
